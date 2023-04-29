@@ -1,4 +1,4 @@
-# To-Do-List-Android
+# Android-To-Do-List
 
 ## Project Description
 This Android Todo List app allows users to create and manage their to-do lists. It includes features such as creating, editing and deleting tasks and organizing tasks by categories. The app provides an intuitive interface and user-friendly experience for keeping track of tasks on the go.
